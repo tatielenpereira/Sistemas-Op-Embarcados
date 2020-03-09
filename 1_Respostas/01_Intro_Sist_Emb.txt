@@ -21,6 +21,6 @@ SoCs
 MPSoCs
 
 5- Por que usamos o Raspberry Pi na disciplina, ao invés de outro system-on-chip?
-Porque o Raspberry Pi possui um baixo custo, possui um tamanho pequeno sendo assim portátil. 
+Porque o Raspberry Pi possui um baixo custo e um tamanho pequeno sendo assim portátil. 
 É um mini microcomputador que possui processador gráfico, slot para cartões de memória, interface USB e HDMI. 
 Possui bastante documentação, ajudando a criar e executar os projetos.
